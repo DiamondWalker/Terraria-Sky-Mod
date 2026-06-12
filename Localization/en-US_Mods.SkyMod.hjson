@@ -3,7 +3,7 @@
 
 Items: {
 	Teleporter: {
-		DisplayName: "Teleporter"
+		DisplayName: Teleporter
 		Tooltip:
 			'''
 			Template of an item

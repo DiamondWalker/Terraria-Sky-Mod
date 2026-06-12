@@ -1,3 +1,4 @@
 displayName = Sky Mod
 author = DiamondWalker
-version = 0.1
+version = 0.0
+modReferences = SubworldLibrary
