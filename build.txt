@@ -1,0 +1,3 @@
+displayName = Sky Mod
+author = DiamondWalker
+version = 0.1
